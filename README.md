@@ -7,3 +7,5 @@ Stay Safe -Alex
 
 Look At Preview to see how it looks.
 SUPPORTS:STYLUS AND BETTER DISCORD!!!
+
+Any problems? Let me know!
