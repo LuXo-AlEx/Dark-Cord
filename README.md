@@ -6,3 +6,4 @@ I worked Super hard on this theme. And I hope you enjoy it.
 Stay Safe -Alex
 
 Look At Preview to see how it looks.
+SUPPORTS:STYLUS AND BETTER DISCORD!!!
